@@ -1,13 +1,13 @@
 @font-face {
   font-family: "Larsseit";
-  src: url("/fonts/Larsseit/Larsseit.ttf") format("truetype"), url("//fonts/Larsseit/Larsseit.woff2") format("woff2"), url("//fonts/Larsseit/Larsseit.woff") format("woff"), url("/fonts/Larsseit/Larsseit.ttf") format("truetype"), url("//fonts/Larsseit/Larsseit.svg") format("svg");
+  src: url("fonts/Larsseit/Larsseit.ttf") format("truetype"), url("//fonts/Larsseit/Larsseit.woff2") format("woff2"), url("//fonts/Larsseit/Larsseit.woff") format("woff"), url("/fonts/Larsseit/Larsseit.ttf") format("truetype"), url("//fonts/Larsseit/Larsseit.svg") format("svg");
   /* iOS 4.1- */ }
 
 @font-face {
   font-family: "Larsseit-Bold";
   src: url("//fonts/Larsseit-Bold/Larsseit-Bold.ttf");
   /* IE9*/
-  src: url("/fonts/Larsseit-Bold/Larsseit-Bold.ttf") format("embedded-opentype"), url("/fonts/Larsseit-Bold/Larsseit-Bold.woff2") format("woff2"), url("/fonts/Larsseit-Bold/Larsseit-Bold.woff") format("woff"), url("/fonts/Larsseit-Bold/Larsseit-Bold.ttf") format("truetype"), url("/fonts/Larsseit-Bold/Larsseit-Bold.svg") format("svg");
+  src: url("fonts/Larsseit-Bold/Larsseit-Bold.ttf") format("embedded-opentype"), url("/fonts/Larsseit-Bold/Larsseit-Bold.woff2") format("woff2"), url("/fonts/Larsseit-Bold/Larsseit-Bold.woff") format("woff"), url("/fonts/Larsseit-Bold/Larsseit-Bold.ttf") format("truetype"), url("/fonts/Larsseit-Bold/Larsseit-Bold.svg") format("svg");
   /* iOS 4.1- */ }
 
 * {
